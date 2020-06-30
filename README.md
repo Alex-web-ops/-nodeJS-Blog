@@ -1,6 +1,6 @@
 # -nodeJS-Blog
 # 第一章 nodeJS介绍
-## 1.1nodejs与js的区别
+## 1.1[nodejs与js的区别](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/1)
 # 第二章 项目介绍
 # 第三章 开发博客项目之接口
 # 第四章 开发博客项目之数据存储
