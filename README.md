@@ -10,6 +10,7 @@
 ## 2.2[技术方案](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/7)
 # 第三章 开发博客项目之接口
 ## 3.1[http概述](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/8)
+## 3.2[Nodejs处理GET请求](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/9)
 # 第四章 开发博客项目之数据存储
 # 第五章 博客项目之登录
 # 第六章 博客项目之日志
