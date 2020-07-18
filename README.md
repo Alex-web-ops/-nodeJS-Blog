@@ -14,6 +14,7 @@
 ## 3.3[Nodejs处理POST请求](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/10)
 ## 3.4[Nodejs处理HTTP请求的综合案例](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/11)
 ## 3.5[搭建开发环境](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/12)
+## 3.6[开发路由](https://github.com/Alex-web-ops/-nodeJS-Blog/issues/13)
 # 第四章 开发博客项目之数据存储
 # 第五章 博客项目之登录
 # 第六章 博客项目之日志
